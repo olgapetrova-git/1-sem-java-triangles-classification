@@ -14,7 +14,7 @@ A program is to be developed for a leather goods manufacturer that will be used 
 	- Designing of an algorithm for the classification of geometric shapes (triangles). 
 	
 ## Documentation
-The Java application is accompanied by technical documentation that includes a detailed description as a formatted JavaDoc.
+The Java application is accompanied by technical documentation that includes a detailed description as a formatted JavaDoc html files located under the *"doc"* folder.
 The file Study assignment - Triangles_German.pdf located in the project's root contains the task that was completed in this project.
 ## How to Install
 Clone the project using `git clone 
@@ -42,7 +42,7 @@ Das Projekt "Dreiecke" bezieht sich darauf, dass für einen Lederwarenfabrikante
 	- 2-dimensionale Arrays  
 	- Bildung eines Algorithmus zur Klassifizierung geometrischer Formen (Dreiecke).  
 ## Documentation
-Die Java-Anwendung wurde von einer technischen Dokumentation begleitet, die eine detaillierte Beschreibung als formatiertes JavaDoc enthielt.
+Die Java-Anwendung wurde von einer technischen Dokumentation begleitet, die eine detaillierte Beschreibung als formatiertes JavaDoc enthielt. JavaDoc html-Dateien sind im Ordner *"doc"* zu finden.
 Die Datei "Study assignment - Triangles_German.pdf", die sich im Stammverzeichnis des Projekts befindet, enthält die Aufgabenstellung, die in diesem Projekt durchgeführt wurde.
 ## Installation
 Klonen Sie das Projekt mit `git clone 
