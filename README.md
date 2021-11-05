@@ -1,6 +1,6 @@
 *Please find German version below*
 # (EN) Project "Triangles" - Java - Basics of Programming
-Study project at the University of Applied Sciences Berlin (HTW Berlin).
+Study project at the University of Applied Sciences Berlin (HTW Berlin). 
 My bachelor study program was Business Computing (Wirtschaftsinformatik).
 1. Semester, October-December 2017. 
 
