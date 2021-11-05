@@ -28,7 +28,7 @@ Olga Petrova
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
 Do not use and hand in this project as your own assignment in the studies!
-# (DE)Projekt "Dreiecke" - Java - Grundlagen der Programmierung	  
+# (DE) Projekt "Dreiecke" - Java - Grundlagen der Programmierung	  
 Studienprojekt während des Studiums an der HTW Berlin (Hochschule für Technik und Wirtschaft Berlin).
 Wirtschaftsinformatik.    
 1. Semester, 2017.  
