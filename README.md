@@ -2,7 +2,7 @@
 # (EN) Project "Triangles" - Java - Basics of Programming
 Study project at the University of Applied Sciences Berlin (HTW Berlin).   
 My bachelor study program was Business Computing (Wirtschaftsinformatik).  
-1. Semester, October-December 2017.   
+1. Semester, October-Februar 2017.   
 
 A program is to be developed for a leather goods manufacturer that will be used to classify triangular leather remnants.  
 	Learning targets:  
