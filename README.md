@@ -1,10 +1,12 @@
 *Please find German version below*
 # (EN) Project "Triangles" - Java - Basics of Programming
 Study project at the University of Applied Sciences Berlin (HTW Berlin).   
-My bachelor study program was Business Computing (Wirtschaftsinformatik).  
-1. Semester, October-Februar 2017.   
+My bachelor study program was Business Computing (Wirtschaftsinformatik).    
 
-A program is to be developed for a leather goods manufacturer that will be used to classify triangular leather remnants.  
+1. Semester, October-March 2017.   
+
+A program is to be developed for a leather goods manufacturer that will be used to classify triangular leather remnants.    
+
 	Learning targets:  
 	- Definition and calling of own methods  
 	- Transition of parameters  
@@ -27,13 +29,15 @@ Olga Petrova
 - LinkedIn: [Olga Petrova](https://www.linkedin.com/in/olga-petrova-berlin/)
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
-Do not use and hand in this project as your own assignment in the studies!
+It is prohibited to use and/or hand in all or part of this project as your own study assignment.
 # (DE) Projekt "Dreiecke" - Java - Grundlagen der Programmierung	  
 Studienprojekt während des Studiums an der HTW Berlin (Hochschule für Technik und Wirtschaft Berlin).    
 Studiengang Wirtschaftsinformatik B.Sc.      
-1. Semester, Oktober-Dezember 2017.      
+
+1. Semester, Oktober-März 2017.      
  
-Das Projekt "Dreiecke" bezieht sich darauf, dass für einen Lederwarenfabrikanten ein Programm zur Klassifizierung dreieckiger Lederreststücke entwickelt werden soll.  
+Das Projekt "Dreiecke" bezieht sich darauf, dass für einen Lederwarenfabrikanten ein Programm zur Klassifizierung dreieckiger Lederreststücke entwickelt werden soll.     
+
 	Lernziele:  
 	- Eigene Methoden definieren und aufrufen  
 	- Übergabe von Parametern  
@@ -55,4 +59,4 @@ Olga Petrova
 - LinkedIn: [Olga Petrova](https://www.linkedin.com/in/olga-petrova-berlin/)
  ## Lizenz
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
-Reichen Sie dieses Projekt nicht als Ihre eigene Lernaufgabe im Studium ein. 
+Es ist verboten, dieses Projekt ganz oder teilweise als eigene Studienarbeit zu verwenden und einzureichen.
